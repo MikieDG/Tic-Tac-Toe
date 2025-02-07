@@ -1,0 +1,9 @@
+void intro();
+bool board_filled();
+void draw_board();
+bool winner();
+void set_board_square();
+void draw_update();
+void change_player();
+void turn();
+void game_over();
